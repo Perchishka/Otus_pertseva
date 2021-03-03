@@ -1,4 +1,3 @@
 README
 
-instalation instruction
-!fgjfgjkfgkfgf
+## Normal instractions
